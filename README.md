@@ -9,3 +9,11 @@ Esse projeto foi criado usando **Shell Script** em conjunto com outras Libs, par
 - Gerar todos os icones que são usados pelo aplicativo em diferentes aparelhos.
 - Ajustar a cor do fundo do icone (background), de forma automatica, com base na logo.
 - Ajuste no tamanho das imagens para que não fujam do padrão.
+
+## Requisitos
+
+- Sistema operacional Linux ou MacOs
+
+## LIBS Necessárias
+- Imagemagick (brew install imagemagick)
+- Ghostscript (brew install ghostscript)
