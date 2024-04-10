@@ -1,0 +1,1 @@
+# script-icone-adaptive-android
